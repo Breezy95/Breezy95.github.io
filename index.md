@@ -14,7 +14,7 @@ title: Bootstrap 4 Github Pages
                             </div>
                     </div>
                         <div class="carousel-item">
-                            <img class="d-block img-fluid" src="assets/img/store.jpg">
+                            <img class="d-block img-fluid" src="assets/img/lot.JPG">
                             <div class= "carousel-caption d-none d-md-block">
                                 <h2> POOOP</h2>
                                 <p class="d-none d-sm-block"> Award winner</p>
