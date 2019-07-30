@@ -4,22 +4,18 @@ title: Bonjour Le Monde!
 ---
 <div class="container">
     <div class="row">
-        <br>
-        <div class="col-12">
-            
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec arcu purus, iaculis quis sapien sed, mattis lobortis nibh. Nullam odio libero, tincidunt ut semper luctus, sodales id sem. Vestibulum sed suscipit nisi, mattis luctus leo. Integer interdum diam a ultricies porta. Nunc at pharetra sapien, a consectetur orci. Duis pharetra, nisi ut vehicula consectetur, purus quam porta elit, vitae dapibus quam purus vitae est. Proin risus enim, accumsan at finibus nec, eleifend eu nisl. Morbi tristique nec erat vehicula porta. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam sit amet metus nisl.
-
-Donec convallis orci at massa aliquet, ut sollicitudin neque venenatis. Morbi quis libero sit amet elit ornare interdum. Suspendisse auctor et urna et imperdiet. Aenean eleifend tortor eu ex semper imperdiet. Curabitur ac dui vel nibh facilisis ornare. Aenean sapien dolor, varius quis quam ac, auctor congue augue. Fusce vulputate vel nisl sit amet sollicitudin. Sed non nibh vitae mauris venenatis ullamcorper. Etiam egestas risus in elit interdum, vel congue mauris consectetur. Cras nec quam a felis sollicitudin rutrum. Nunc elit turpis, ultricies quis blandit sed, malesuada a odio. Ut placerat nunc non tortor tincidunt, ut tempor diam accumsan. Duis iaculis dui a posuere vehicula. Pellentesque ultricies facilisis laoreet. Suspendisse vitae nibh fermentum massa placerat tincidunt eu vitae orci.
-
-Nulla placerat quam vel tellus aliquet malesuada. Phasellus metus diam, fermentum vitae convallis et, porta a mi. Integer velit massa, varius at rutrum sed, tincidunt a tortor. Sed blandit mauris bibendum, rutrum ex at, fringilla erat. Etiam nec pretium mi, nec porttitor felis. Nam elementum dui sit amet nibh vulputate, eget commodo ipsum tristique. Ut vehicula sem turpis, in tristique leo rutrum id. Morbi pharetra vestibulum nunc, varius ullamcorper tortor. Nam volutpat nisl nisi, eu auctor nibh mollis ac. Cras faucibus euismod augue egestas ullamcorper.
-
-Duis lacinia mauris id nisi placerat placerat. Fusce in diam pulvinar, mattis lectus id, malesuada odio. Aliquam tincidunt, nisi ac euismod bibendum, nisi dolor accumsan lacus, vel facilisis nisl ipsum vitae nulla. Morbi efficitur velit vitae libero luctus convallis. Vestibulum efficitur sem eget ligula suscipit dignissim vitae a ex. Mauris lectus nisl, vehicula vitae dui at, elementum convallis mi. Aenean in urna porttitor, consectetur elit faucibus, blandit ante. Proin vitae libero suscipit, venenatis dolor ultricies, lacinia justo. Duis euismod neque eu urna cursus, eu luctus nisl eleifend.
-
-Praesent sit amet hendrerit nibh, eget consectetur mauris. Sed id est vestibulum orci euismod dictum vitae in nisl. Morbi dui massa, viverra a urna vitae, eleifend blandit risus. Morbi venenatis lacus ullamcorper massa commodo, quis viverra dolor ultricies. Nulla dapibus nisl in mi maximus interdum. Maecenas vitae erat vel arcu elementum porttitor ac quis ante. Maecenas consequat enim consequat, placerat mi ac, luctus ex. Donec ullamcorper nisi quis leo facilisis interdum. 
-<a class="section2" href="#">Hi</a>
-    </div>
-    </div>
+        <div class= "col-sm">
+           <img class="d-block img-fluid hidden-sm" src="placeholder.png" alt="ph"> 
+		</div>
+		<div class="col-12 col-sm">
+        	Hello! I'm Fabrice Benoit dwfewferf refrefke
+        	fnkelfnekrlfnerklfenfklenfklrenfkerfn krlfne
+        	enfklewnfklwenfw fjwelfnweklfnwlfnkwl
+        	fewklnfweklfnweklfneifl3ojf
+        	fwneklfdwenedklweniu3ojhd
+        	wjkel4hedkbwnlekoqledw dewkjdlwekfjcbfj3f3
+        	nkl3jfi3lhfnwlf weflkwelnfkwelf 34jf3;rjm3
+        </div>
+		
+	</div>
 </div>
-
-5

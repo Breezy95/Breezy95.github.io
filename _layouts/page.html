@@ -2,6 +2,12 @@
 layout: default_no_carousel
 ---
 <article>
+	{% if page.title == "Photos" -%}
+        <ol class="col-12 breadcrumb fixed-top">
+                <li class="breadcrumb-item"><a data-scroll href="#photos">Photos</a></li>
+                <li class="breadcrumb-item active"><a data-scroll href="#photoshop">Photoshop</a></li>
+        </ol>
+{%- endif -%}
 
   <section>
     {{ content }}
