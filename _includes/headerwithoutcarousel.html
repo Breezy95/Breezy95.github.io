@@ -23,10 +23,11 @@
 
         {%- for page in site.pages -%}
           {%- if page.dir contains "pages" -%}
-          <li class="nav-item">
-          
-            <a class="nav-link" href="{{page.dir}}{{page.title}}.html">{{page.title}}</a>
-          </li>
+            {% unless page.title == "Photos" %}
+              <li class="nav-item">
+                <a class="nav-link" href="{{page.dir}}{{page.title}}.html">{{page.title}}</a>
+              </li>
+            {% endunless %}
           {%- endif -%}
         {% endfor -%}
       </ul>
