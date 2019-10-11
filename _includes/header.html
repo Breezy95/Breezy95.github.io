@@ -22,9 +22,11 @@
 
         {%- for page in site.pages -%}
           {%- if page.dir contains "pages" -%}
+            {% unless page.title == "Photos" %}
           <li class="nav-item">
             <a class="nav-link" href="{{page.dir}}{{page.title}}.html">{{page.title}}</a>
           </li>
+            {% endunless %}
           {%- endif -%}
         {% endfor -%}
       </ul>
@@ -46,7 +48,7 @@
                             <img class="d-block img-fluid" src="assets/imgs/lot.JPG">
                             <div class= "carousel-caption d-none d-md-block">
                                 <h2></h2>
-                                <p class="d-none d-sm-block"> Award winner</p>
+                                <p class="d-none d-sm-block"></p> <!-- text for img -->
                             </div>
                         </div>
                 </div>

@@ -1,21 +1,25 @@
 ---
 layout: page with carousel
-title: Bonjour Le Monde!
+title: Salut Le Monde!
 ---
+<style>
+	.rot90CC{
+		-webkit-transform:rotate(-90deg);
+  -moz-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  -o-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+	}
+
+</style>
+
 <div class="container">
     <div class="row">
         <div class= "col-sm">
-           <img class="d-block img-fluid hidden-sm" src="placeholder.png" alt="ph"> 
+           <img class="rot90CC d-block img-fluid hidden-sm" src="profile.jpg" alt="ph"> 
 		</div>
 		<div class="col-12 col-sm">
-        	Hello! I'm Fabrice Benoit dwfewferf refrefke
-        	fnkelfnekrlfnerklfenfklenfklrenfkerfn krlfne
-        	enfklewnfklwenfw fjwelfnweklfnwlfnkwl
-        	fewklnfweklfnweklfneifl3ojf
-        	fwneklfdwenedklweniu3ojhd
-        	wjkel4hedkbwnlekoqledw dewkjdlwekfjcbfj3f3
-        	nkl3jfi3lhfnwlf weflkwelnfkwelf 34jf3;rjm3
+        	Hello! I'm Fabrice Benoit. I am a first gen American of Haitian descent, hence the earlier French.
+        	I graduated from Stony Brook University in December 2018 receiving my, Bachelors in Psychology with a concentration in Mathematics and Computer Science. Currently, I am applying to graduate schools and looking for places to apply my skills. In my spare time I enjoy martial arts, competitive video games, skating, weight lifting, and photography.
         </div>
-		
-	</div>
 </div>
