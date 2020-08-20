@@ -16,7 +16,7 @@ title: Salut Le Monde!
 <div class="container">
     <div class="row">
         <div class= "col-sm">
-           <img class="rot180CC d-block img-fluid hidden-sm" src="profile.jpg" alt="ph"> 
+           <img class="rot180CC d-block img-fluid hidden-sm" src="assets\imgs\me.jpg" alt="ph"> 
 		</div>
 		<div class="col-12 col-sm">
         	Hello! I'm Fabrice Benoit. I am a first gen American of Haitian descent, hence the earlier French.
