@@ -16,10 +16,10 @@ title: Salut Le Monde!
 <div class="container">
     <div class="row">
         <div class= "col-sm">
-           <img class="rot90CC d-block img-fluid hidden-sm" src="profile.jpg" alt="ph"> 
+           <img class="rot180CC d-block img-fluid hidden-sm" src="profile.jpg" alt="ph"> 
 		</div>
 		<div class="col-12 col-sm">
         	Hello! I'm Fabrice Benoit. I am a first gen American of Haitian descent, hence the earlier French.
-        	I graduated from Stony Brook University in December 2018 receiving my, Bachelors in Psychology with a concentration in Mathematics and Computer Science. Currently, I am applying to graduate schools and looking for places to apply my skills. In my spare time I enjoy martial arts, competitive video games, skating, weight lifting, and photography.
+        	I graduated from Stony Brook University in December 2018 receiving my Bachelors in Psychology with a concentration in Mathematics and Computer Science. Currently, I am a graduate student at NYU working towards my masters in Computer Science. In my spare time I enjoy martial arts, competitive video games, skating, weight lifting, and photography.
         </div>
 </div>
